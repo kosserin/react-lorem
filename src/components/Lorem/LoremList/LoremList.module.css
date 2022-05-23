@@ -1,0 +1,9 @@
+.lorem-list {
+    width: 600px;
+    max-width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    gap: 8px;
+}
